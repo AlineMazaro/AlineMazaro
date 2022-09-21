@@ -1,5 +1,5 @@
-### Olá, bem vindo ao meu github 👋
-## Meu nome é Aline Mazaro
+## Olá, bem vindo ao meu github 👋
+### Meu nome é Aline Mazaro
 - 🔭 Em busca de transição de carreira
 - 🌱 Estudando Java e Python
 
