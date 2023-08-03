@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu github 👋
 ### Meu nome é Aline Mazaro
-- 🔭 Estagiária QA na Eletromidia
+- 🔭 QA na Eletromidia
 - 🌱 Estudando JavaScript
 
 <div align="center">
